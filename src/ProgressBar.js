@@ -7,6 +7,7 @@ export default function ProgressBar() {
   const [width, setwidth] = useState(0);
   const [barStatus, setbarStatus] = useState(false);
   const [IntervalId, setIntervalId] = useState(0);
+  console.log("hi");
 
   //   const componentRef = useRef(null);
   //   console.log(componentRef);
