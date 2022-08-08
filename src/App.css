@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.bar {
+  /* margin-left: 40px; */
+  width: 100px;
+  height: 20px;
+  background-color: green;
+}
